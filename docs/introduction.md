@@ -147,7 +147,7 @@ In order to follow the tutorial we'll need [Docker](https://www.docker.com/get-s
 
 
 ````bash
-git clone
+git clone git@github.com:Telefonica/cto-django-training-code.git
 cp .env.example .env 
 docker-compose up
 
