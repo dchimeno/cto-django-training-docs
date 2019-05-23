@@ -19,4 +19,7 @@ But new challenges arise:
 FUTURE?:
 
 DJANGO ASYNC DEP:
-https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst 
+https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst
+
+
+https://bit.ly/2EsoRrc 

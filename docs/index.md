@@ -24,5 +24,3 @@ Schedule:
 
 
 Enjoy it! 
-
-https://bit.ly/2EsoRrc
