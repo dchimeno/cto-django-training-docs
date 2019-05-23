@@ -129,6 +129,7 @@ We serve a /schema.json file in our service in order to integrate it with [luca 
 
 ### DRF-YASG
 
+[drf-yasg](https://drf-yasg.readthedocs.io/en/stable/)
 Automatic generation of Swagger 2.0 spec based on DRF serializers and views (introspection) and some annotations.
 
 
@@ -143,31 +144,12 @@ Automatic generation of Swagger 2.0 spec based on DRF serializers and views (int
 References:
 
 https://www.youtube.com/watch?v=Fqhpr_SXqzs
+
 https://www.youtube.com/watch?v=yG3ZdxBb1oo
 
 
 
-## Present and future of Django
 
-Django has evolved in a way not too much frameworks have done in the last 15 years.
-
-It has all the features it can have and is very mature and secure.
-
-But new challenges arise:
-
-* Microservices
-* More and more speed required
-* Websockets
-* New async frameworks in python
-* Running python is slower
-* New languages
-* No only SQL
-
-
-
-FUTURE:
-DJANGO ASYNC DEP:
-https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst 
 
 
 

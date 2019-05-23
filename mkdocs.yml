@@ -60,3 +60,5 @@ nav:
  - 2. Model: 'model.md'
  - 3. Views: 'views.md'
  - 4. Testing: 'testing.md'
+ - 5. Extra: 'extra.md'
+
