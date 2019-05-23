@@ -25,6 +25,21 @@ Create a middleware that logs/prints all requests durations.
 Reference: https://docs.djangoproject.com/en/2.1/topics/http/middleware/
 
 
+## Create a basic view
+Given one of the previous query we saw in on the other chapter.
+Create a function based view that returns a json of that queryset.
+
+
+````python
+def riego_streams(request):
+    pass   
+    
+````
+
+
+
+
+
 ## Creating a basic API
 
 We'll create some endpoints to expose data with ![DRF](https://www.django-rest-framework.org/)
