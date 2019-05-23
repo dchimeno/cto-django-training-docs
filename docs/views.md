@@ -22,6 +22,8 @@ Exercise:
 
 Create a middleware that logs/prints all requests durations.
 
+Reference: https://docs.djangoproject.com/en/2.1/topics/http/middleware/
+
 
 ## Creating a basic API
 
