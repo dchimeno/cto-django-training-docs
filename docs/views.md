@@ -29,6 +29,7 @@ Reference: https://docs.djangoproject.com/en/2.1/topics/http/middleware/
 Given one of the previous query we saw in on the other chapter.
 Create a function based view that returns a json of that queryset.
 
+Reference: https://docs.djangoproject.com/en/2.2/ref/request-response/#jsonresponse-objects
 
 ````python
 def riego_streams(request):
